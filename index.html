@@ -6,22 +6,27 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>VtM Data</title>
 
-        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+        <!-- Bootstrap 3 + Slate theme -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+        <link rel="stylesheet" href="https://bootswatch.com/3/slate/bootstrap.min.css" crossorigin="anonymous">
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
     </head>
     <body>
-        <h1 class="jumbotron">Phoenix Heat</h1>
+        <h1 class="jumbotron text-center">
+            Phoenix Heat
+        </h1>
 
-        <div class="row">
-            <select id="pick-type" onChange="">
+        <form class="form-inline">
+            <select id="pick-type" onChange="" class="form-control">
                 <option value="people">People</option>
                 <option value="places">Places</option>
             </select>
 
-            <select id="pick-element" onChange=""></select>
+            <select id="pick-element" onChange="" class="form-control"></select>
 
             <!-- look up bootstrap iconicon -->
-            <input id="search" type="text" onChange="">  
-        </div>
+            <input id="search" type="text" onChange="" class="form-control">  
+        </form>
 
         <div class="row">
             <div id="pheonix-map"></div>
