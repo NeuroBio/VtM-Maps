@@ -8,3 +8,9 @@ streets = L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?a
     accessToken: apiKey
 });
 streets.addTo(map);
+
+places.forEach(place => {
+    L.marker(place.location)
+        .bindPopup(place.name + '<br>' + place.desc)
+        .addTo(map);
+});
