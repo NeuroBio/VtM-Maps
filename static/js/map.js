@@ -10,7 +10,9 @@ streets = L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?a
 streets.addTo(map);
 
 places.forEach(place => {
-    L.marker(place.location)
+    L.circleMarker(place.location, {
+        color: 'red',
+    })
         .bindPopup(place.name + '<br>' + place.desc)
         .addTo(map);
 });
