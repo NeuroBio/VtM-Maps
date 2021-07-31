@@ -24,8 +24,17 @@
     </head>
     <body>
         <h1 class="jumbotron text-center">
-            Phoenix Heat
+            <img src="static/images/Logo.png" alt="Phoenix Heat">
         </h1>
+
+        <div class="row">
+            <div id="pheonix-map"></div>
+        </div>
+
+        <div class="row">
+            <img id="sub-image">
+            <div id="info"></div>
+        </div>
 
         <form class="form-inline">
             <select id="pick-type" onChange="" class="form-control">
@@ -38,15 +47,6 @@
             <!-- look up bootstrap iconicon -->
             <input id="search" type="text" onChange="" class="form-control">  
         </form>
-
-        <div class="row">
-            <div id="pheonix-map"></div>
-        </div>
-
-        <div class="row">
-            <img id="sub-image">
-            <div id="info"></div>
-        </div>
 
 
         <script src="static/js/char.js"></script>
