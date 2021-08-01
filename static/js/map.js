@@ -25,8 +25,8 @@ const overlays = {
 
 // build map
 const map = L.map('pheonix-map', {
-    center: [33.4484, -112.0740],
-    zoom: 9,
+    center: [33.62, -111.8],
+    zoom: 10,
     layers: [dark]
 });
 
@@ -36,7 +36,6 @@ L.control.layers(baseMaps, overlays).addTo(map);
 // set up domains
 d3.json('https://raw.githubusercontent.com/blackmad/neighborhoods/master/phoenix.geojson')
 .then(data => {
-    console.log(data)
     function styling(feature) {
         return {
             weight: 1,
@@ -48,11 +47,12 @@ d3.json('https://raw.githubusercontent.com/blackmad/neighborhoods/master/phoenix
     L.geoJson(data, {
         style: styling,
         onEachFeature: (feature, layer) => {
-            console.log(feature.properties)
             layer.bindPopup(feature.properties.name);
         }
     }).addTo(domains);
     domains.addTo(map);
+
+    postAsync();
 })
 
 // set up a faction legend
@@ -72,14 +72,32 @@ legend.onAdd = () => {
 
 legend.addTo(map)
 
-// set up places markers
-places.forEach(place => {
-    L.circleMarker(place.location, {
-        color: 'yellow',
-        stroke: false,
-        fillOpacity: .7,
-        radius: 7
-    }).bindPopup(place.name + '<br>' + place.desc).addTo(placeMarkers);
-});
 
-placeMarkers.addTo(map);
+function postAsync() {
+    // set up places markers
+    places.forEach(place => {
+        L.circleMarker(place.location, {
+            color: 'yellow',
+            stroke: false,
+            fillOpacity: .7,
+            radius: 15
+        }).bindPopup(`<h2>${place.name}</h2><hr> <p class="desc">${place.desc}</p>`).addTo(placeMarkers);
+    });
+
+    placeMarkers.addTo(map);
+
+    // set up places markers
+    havens.forEach(haven => {
+        console.log(haven)
+        L.circleMarker(haven.location, {
+            color: 'white',
+            stroke: false,
+            fillOpacity: .9,
+            radius: 7
+        }).bindPopup(`<h2><img class="mini-portrait" src=${haven.image}><br>${
+            haven.owner}'s Haven</h2><hr> <p class="desc">${haven.havenDesc}</p>`
+        ).addTo(peopleMarkers);
+    });
+
+    peopleMarkers.addTo(map);
+}

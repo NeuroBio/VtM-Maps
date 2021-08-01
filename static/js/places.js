@@ -1,7 +1,22 @@
 places = [
     {
-        name: 'San Carlos Hotel',
+        name: 'The San Carlos Hotel',
         location: [33.4506, -112.0741],
-        desc: 'Haunted Hotel; Stefan\'s haven'
+        desc: 'A well-known, historically-haunted building.  Thaddeus hosted a two-part ghost investigation here, where he ran into a dark presence that nearly murdered him and Iz.  Thaddeus acquired enough evidence to write a new entry for his ghost blog.'
+    },
+    {
+        name: 'Sky Harbor Inn Apartments',
+        location: [33.4502, -112.0321],
+        desc: 'The apartment where Iz’s fiancé, Aisyah, lives.  Also the location of an ill-conceived attempt to pseudo-kidnap Aisyah.'
+    },
+    {
+        name: 'Arizona State Hospital',
+        location: [33.4540, -112.0301],
+        desc: 'The hospital where Iz’s fiancé, Aisyah, works.'
+    },
+    {
+        name: 'The Freeport McMoran Building',
+        location: [33.4517, -112.0730],
+        desc: 'By day, it is the headquarters of the largest publicly traded copper producer.  By night, it is the headquarters of the Phoenix Camarilla under Prince Santana.  The first time Thaddeus and Iz entered the building to drop off a package from Hartstone Prince Grayson to Prince Santana.  Along the way, Thaddeus accidently made the acquaintance of the rich blood-leach Dmitri, who would later participate in the coup to take over the Hartstone Camarilla.  On their second visit, the fledglings asked the Thinblood receptionist, TimJohn, about the possibility of meeting members of the Tremere Chantry in Phoenix, which put Thaddeus into communication with TimJohn’s Tremere sister, Ava.'
     }
 ];
