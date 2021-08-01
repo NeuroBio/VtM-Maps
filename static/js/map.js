@@ -80,7 +80,7 @@ function postAsync() {
     // set up places markers
     places.forEach(place => {
         L.circleMarker(place.location, {
-            color: 'yellow',
+            color: '#99ccff',
             stroke: false,
             fillOpacity: .7,
             radius: 15
