@@ -33,6 +33,45 @@ const map = L.map('pheonix-map', {
 L.control.layers(baseMaps, overlays).addTo(map);
 
 
+// set up domains
+d3.json('https://raw.githubusercontent.com/blackmad/neighborhoods/master/phoenix.geojson')
+.then(data => {
+    console.log(data)
+    function styling(feature) {
+        return {
+            weight: 1,
+            fillOpacity: .5,
+            color: domainFaction[feature.properties.name].color
+        };
+    }
+
+    L.geoJson(data, {
+        style: styling,
+        onEachFeature: (feature, layer) => {
+            console.log(feature.properties)
+            layer.bindPopup(feature.properties.name);
+        }
+    }).addTo(domains);
+    domains.addTo(map);
+})
+
+// set up a faction legend
+const legend = L.control({
+    position: 'bottomright'
+});
+
+legend.onAdd = () => {
+    const div = L.DomUtil.create('div', 'legend');
+
+    for (let i = 0; i < factionNames.length; i++) {
+        div.innerHTML += `<i style="background: ${factionColors[i]}"></i> ${factionNames[i]} <br><br>`
+    }
+
+    return div;
+}
+
+legend.addTo(map)
+
 // set up places markers
 places.forEach(place => {
     L.circleMarker(place.location, {
@@ -44,22 +83,3 @@ places.forEach(place => {
 });
 
 placeMarkers.addTo(map);
-
-// set up a faction legend
-const legend = L.control({
-    position: 'bottomright'
-});
-
-legend.onAdd = () => {
-    const div = L.DomUtil.create('div', 'legend');
-    const colors = ['purple', 'blue', 'red', 'grey'];
-    const factionNames = ['Camarilla', 'Anarch', 'Sabbat', 'Autarkis'];
-
-    for (let i = 0; i < factionNames.length; i++) {
-        div.innerHTML += `<i style="background: ${colors[i]}"></i> ${factionNames[i]} <br><br>`
-    }
-
-    return div;
-}
-
-legend.addTo(map)
