@@ -25,7 +25,7 @@ places = [
         desc: 'The university Iz studied programming and comparative religion at prior to the embrace.'
     },
     {
-        name: 'Cuit of Phoenix Police Station',
+        name: 'City of Phoenix Police Station',
         location: [33.46081926752634, -112.07388522221011],
         desc: 'The station where Thaddeus’ older sister, Anna, works.'
     },
