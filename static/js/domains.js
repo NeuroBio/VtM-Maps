@@ -1,4 +1,4 @@
-const factionColors = ['purple', 'blue', 'red', 'grey'];
+const factionColors = ['purple', 'blue', 'red', '#03fcf4'];
 const factionNames = ['Camarilla', 'Anarch', 'Sabbat', 'Autarkis'];
 
 const domainFaction = {
@@ -16,5 +16,6 @@ const domainFaction = {
     'Laveen': { faction: factionNames[0], color: factionColors[0] },
     'Estrella': { faction: factionNames[0], color: factionColors[0] },
     'South Mountain': { faction: factionNames[0], color: factionColors[0] },
-    'Camelback East': { faction: factionNames[0], color: factionColors[0] }
+    'Camelback East': { faction: factionNames[0], color: factionColors[0] },
+    'Hartstone': { faction: factionNames[3], color: factionColors[3] }
 };

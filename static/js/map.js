@@ -36,6 +36,7 @@ L.control.layers(baseMaps, overlays).addTo(map);
 // set up domains
 d3.json('https://raw.githubusercontent.com/blackmad/neighborhoods/master/phoenix.geojson')
 .then(data => {
+    data.features.push(hartstone);
     function styling(feature) {
         return {
             weight: 1,
@@ -50,6 +51,8 @@ d3.json('https://raw.githubusercontent.com/blackmad/neighborhoods/master/phoenix
             layer.bindPopup(feature.properties.name);
         }
     }).addTo(domains);
+
+
     domains.addTo(map);
 
     postAsync();
@@ -88,7 +91,6 @@ function postAsync() {
 
     // set up places markers
     havens.forEach(haven => {
-        console.log(haven)
         L.circleMarker(haven.location, {
             color: 'white',
             stroke: false,
