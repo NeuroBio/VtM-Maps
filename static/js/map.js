@@ -5,7 +5,7 @@ dark = L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?acce
     id: 'mapbox/dark-v10',
     tileSize: 512,
     zoomOffset: -1,
-    accessToken: apiKey
+    accessToken: APIKEY
 });
 
 const baseMaps = {
