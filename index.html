@@ -10,6 +10,11 @@
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
         <link rel="stylesheet" href="https://bootswatch.com/3/slate/bootstrap.min.css" crossorigin="anonymous">
 
+        <!-- Finally get the right linke for bootstrap 3's jquery pieces -->
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
         <!-- leaflet setup -->
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
         integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
@@ -23,25 +28,72 @@
         
     </head>
     <body>
+
+        <!-- Heading and summary -->
         <h1 class="jumbotron text-center">
             <img id="logo" src="static/images/Logo.png" alt="Phoenix Heat">
         </h1>
 
         <div class="blurb">
-            <h2>The Game</h2>
-            <p id="summary">
-                Phoenix Heat was a two story, 32 session Vampire the Masquerade (a TTRPG)
-                campaign I ran from 2020-2021.  The game focused on player characters
-                Thaddeus (a fledgling Tremere) and Izzuddin (Iz, a fledgling Malkavian)
-                and the unstable politics within and between the fictional city Hartstone
-                and Phoenix.  This reference website marks out key locations in the game
-                (events and Kindred/Vampire havens) as well as gives quick bios on the
-                two player characters and the myriad of NPCs I commanded as the
-                Storyteller (game master).
-            </p>
+            <button class="btn btn-primary" type="button" data-toggle="collapse"
+            data-target="#summaryCollapse" aria-controls="summaryCollapse">
+                Summary of the Game
+            </button>
+            <div id="summaryCollapse" class="collapse">
+                <p id="summary">
+                    <br>
+                    Phoenix Heat was a two story, 32 session Vampire the Masquerade (a TTRPG)
+                    campaign I ran from 2020-2021.  The game focused on player characters
+                    Thaddeus (a fledgling Tremere) and Izzuddin (Iz, a fledgling Malkavian)
+                    and the unstable politics within and between the fictional city Hartstone
+                    and Phoenix.  This reference website marks out key locations in the game
+                    (events and Kindred/Vampire havens) as well as gives quick bios on the
+                    two player characters and the myriad of NPCs I commanded as the
+                    Storyteller (game master).
+                </p>    
+            </div>
         </div>
 
-        <div class="col-md-12 row">
+        <div id="character-info" class="col-lg-6">
+             <!-- documents section (characters, hopefully places later) -->
+            <form class="form-inline">
+                <h2>
+                    View Characters: &nbsp;
+                </h2>
+                <!-- <select id="pick-type" onChange="" class="form-control">
+                    <option value="people">People</option>
+                    <option value="places">Places</option>
+                </select> -->
+
+                <select id="pick-element" onChange="" class="form-control"></select>
+
+                <!-- look up bootstrap iconicon -->
+                <!-- <input id="search" type="text" onChange="" class="form-control">   -->
+            </form>
+            <br>
+
+            <div id="quick-facts">
+                <img id="portrait">
+                <div id="side-text">
+                    <p><b>Name: </b><span id="fullName"></span></p>
+                    <p><b>Player: </b><span id="player"></span></p>
+                    <p><b>Concept: </b><span id="concept"></span></p>
+                    <p><b>Ambition: </b><span id="ambition"></span></p>
+                    <p><b>Clan: </b><span id="clan"></span></p>
+                    <p><b>Faction: </b><span id="faction"></span></p>
+                    <p><b>Sire: </b><span id="sire"></span></p>
+                    <p><b>Childer: </b><span id="childer"></span></p>
+                </div>
+            </div>
+            <div id="biography">
+                <p id="keyNote"></p>
+                <p id="history"></p>
+            </div>
+        </div>
+
+
+        <!-- Maps -->
+        <div id="map-container" class="row col-lg-6">
             <form id="select-map-view">
 
                 <h2>
@@ -53,57 +105,18 @@
     
                 <label>Hartstone Map
                     <input type="radio" name="mapView" value="true" class="map-select">
-                </label>    
+                </label>
             </form>
-        </div>
-        <div class="row">
+
             <div id="pheonix-map" aria-label="Phoenix-map"></div>
-        </div>
-
-        <div class="row">
+    
             <div id="hartstone-map" aria-label="hartstone-map"></div>
+
+            <span class="note">
+                <b>Note:</b>  Only havens that Thaddeus and/or Iz dicovered during the game are included here.
+            </span>
         </div>
 
-        <div class="row">
-            <img id="sub-image">
-            <div id="info"></div>
-            <p class="col-md-8 note">
-                <b>Note:</b>  Only havens that the Thaddeus and/or Iz dicovered during the game are included here.
-            </p>
-        </div>
-
-        <form class="form-inline">
-            <select id="pick-type" onChange="" class="form-control">
-                <option value="people">People</option>
-                <option value="places">Places</option>
-            </select>
-
-            <select id="pick-element" onChange="" class="form-control"></select>
-
-            <!-- look up bootstrap iconicon -->
-            <input id="search" type="text" onChange="" class="form-control">  
-        </form>
-        <br>
-
-        <div id="character-info">
-            <div id="quick-facts">
-                <img id="portrait">
-                <div>
-                    <p><b>Name: </b><span id="fullName"></span></p>
-                    <p><b>Player: </b><span id="player"></span></p>
-                    <p><b>Concept: </b><span id="concept"></span></p>
-                    <p><b>Ambition: </b><span id="ambition"></span></p>
-                    <p><b>Clan: </b><span id="clan"></span></p>
-                    <p><b>Faction: </b><span id="faction"></span></p>
-                    <p><b>Sire: </b><span id="sire"></span></p>
-                    <p><b>Childer: </b><span id="childer"></span></p>
-                </div>    
-            </div>
-            <div id="biography">
-                <p id="keyNote"></p>
-                <p id="history"></p>    
-            </div>
-        </div>
 
 
         <!-- D3 -->
