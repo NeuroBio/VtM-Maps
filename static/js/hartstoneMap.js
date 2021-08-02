@@ -28,7 +28,7 @@ function pixelToCoord(pixels) {
     return [(2000-pixels[1]) / 2.3575, pixels[0] / 2.3575];
 }
 
-// set up places markers
+// set up place markers
 hartPlaces.forEach(place => {
     L.circleMarker(pixelToCoord(place.location), {
         color: '#99ccff',
@@ -40,4 +40,19 @@ hartPlaces.forEach(place => {
 });
 
 hartPlaceMarkers.addTo(hartMap);
+
+
+// set up haven markers
+hartHavens.forEach(haven => {
+    L.circleMarker(pixelToCoord(haven.location), {
+        color: 'white',
+        stroke: false,
+        fillOpacity: .9,
+        radius: 7
+    }).bindPopup(`<h2><img class="mini-portrait" src=${haven.image}><br>${
+        haven.owner}'s Haven</h2><hr> <p class="desc">${haven.havenDesc}</p>`
+    ).addTo(hartPeopleMarkers);
+});
+
+hartPeopleMarkers.addTo(hartMap);
 

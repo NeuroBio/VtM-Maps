@@ -4,9 +4,9 @@ function switchMap() {
         d3.select('#pheonix-map').style('display', 'none');
         hartMap.invalidateSize();
     } else {
-        console.log('don\'t show hart')
         d3.select('#hartstone-map').style('display', 'none');
         d3.select('#pheonix-map').style('display', 'block');
+        map.invalidateSize();
     }
 }
 

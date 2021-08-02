@@ -20,4 +20,4 @@ const hartstone = {
             ]
         ]
     }
-}
+};

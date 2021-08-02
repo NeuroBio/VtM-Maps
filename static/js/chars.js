@@ -1,0 +1,6 @@
+chars = {
+    Stefan: {
+        fullName: '',
+
+    }
+};

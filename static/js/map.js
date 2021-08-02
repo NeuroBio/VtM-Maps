@@ -79,7 +79,7 @@ legend.addTo(map)
 
 
 function postAsync() {
-    // set up places markers
+    // set up place markers
     places.forEach(place => {
         L.circleMarker(place.location, {
             color: '#99ccff',
@@ -91,7 +91,7 @@ function postAsync() {
 
     placeMarkers.addTo(map);
 
-    // set up places markers
+    // set up haven markers
     havens.forEach(haven => {
         L.circleMarker(haven.location, {
             color: 'white',
@@ -104,4 +104,4 @@ function postAsync() {
     });
 
     peopleMarkers.addTo(map);
-}
+};

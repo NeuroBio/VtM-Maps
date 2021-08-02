@@ -29,7 +29,7 @@
 
         <div class="blurb">
             <h2>The Game</h2>
-            <p>
+            <p id="summary">
                 Phoenix Heat was a two story, 32 session Vampire the Masquerade (a TTRPG)
                 campaign I ran from 2020-2021.  The game focused on player characters
                 Thaddeus (a fledgling Tremere) and Izzuddin (Iz, a fledgling Malkavain)
@@ -41,7 +41,7 @@
             </p>
         </div>
 
-        <div class="row">
+        <div class="col-md-12 row">
             <form id="select-map-view">
 
                 <h2>
@@ -67,6 +67,9 @@
         <div class="row">
             <img id="sub-image">
             <div id="info"></div>
+            <p class="col-md-8 note">
+                <b>Note:</b>  Only havens that the Thaddeus and/or Iz dicovered during the game are included here.
+            </p>
         </div>
 
         <form class="form-inline">
@@ -86,7 +89,9 @@
         <script src="https://d3js.org/d3.v5.min.js"></script>
 
         <!-- data -->
-        <script src="static/js/char.js"></script>
+        <script src="static/js/chars.js"></script>
+        <script src="static/js/havens.js"></script>
+        <script src="static/js/hartHavens.js"></script>
         <script src="static/js/places.js"></script>
         <script src="static/js/hartPlaces.js"></script>
         <script src="static/js/domains.js"></script>
