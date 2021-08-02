@@ -25,8 +25,8 @@ const overlays = {
 
 // build map
 const map = L.map('pheonix-map', {
-    center: [33.62, -111.8],
-    zoom: 10,
+    center: [33.5, -111.8],
+    zoom: 11,
     layers: [dark]
 });
 
@@ -66,8 +66,10 @@ const legend = L.control({
 legend.onAdd = () => {
     const div = L.DomUtil.create('div', 'legend');
 
+    div.innerHTML += '<b id="legend-label">Factions:</b><br><br>';
+
     for (let i = 0; i < factionNames.length; i++) {
-        div.innerHTML += `<i style="background: ${factionColors[i]}"></i> ${factionNames[i]} <br><br>`
+        div.innerHTML += `<i style="background: ${factionColors[i]}"></i> ${factionNames[i]} <br><br>`;
     }
 
     return div;

@@ -36,3 +36,13 @@ h2 {
 .mini-portrait {
     height: 200px;
 }
+
+.blurb {
+    line-height: 1.65;
+    padding: 1em;
+    max-width: 750px
+}
+
+#legend-label {
+    font-size: 16pt;
+}
