@@ -3,6 +3,11 @@
     height: 70vh;
 }
 
+#hartstone-map {
+    width: 100vw;
+    height: 70vh;
+}
+
 .legend {
     padding: 10px;
     line-height: 18px;
