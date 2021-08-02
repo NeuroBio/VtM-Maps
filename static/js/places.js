@@ -22,7 +22,7 @@ places = [
     {
         name: 'University of Phoenix',
         location: [33.4164117242527, -112.01359445228233],
-        desc: 'The university Iz studied programming and comparative religion at prior to the embrace.'
+        desc: 'The university Iz studied programming and comparative religion at prior to the embrace.  Iz hosted prayer group on Tuesdays in one of the conference rooms on campus.  He also had the misfortune of revealing himself to his sire, Zikri, here and was embraced by Zikri in the library.  Soon after, he was dropped off in Hartstone to spy on the Camarilla under questionable pretenses. '
     },
     {
         name: 'City of Phoenix Police Station',
@@ -63,5 +63,10 @@ places = [
         name: 'Poseur',
         location: [33.43723101409645, -112.06412172406091],
         desc: 'A dance club run by Toreadore Eves.  The club serves both mortal and immortal clientele, where mortals willing to donate blood get paid for their services.  The club is primarily frequented by the Poseur faction of Toreadores, but occasional Artistes are allowed (begrudgingly).  Rarely, other clans drop by for a bite, though Nosferatu are not permitted on premises.'
+    },
+    {
+        name: 'Rest Haven Cemetary',
+        location: [33.39367363626605, -111.98970457284278],
+        desc: 'Zikri’s favorite cemetery.  Both Irfan and Iz were buried here and forced to dig themselves out of the dirt after their embrace.'
     }
 ];

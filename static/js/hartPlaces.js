@@ -32,7 +32,7 @@ const hartPlaces = [
     {
         name: 'Lava Snake',
         location: [1829, 1175],
-        desc: 'An LGBQT+-friendly dance club that is Reese and Corinne’s primary hunting ground.  Thaddeus also made ample use of it, though Iz was far less keen on the idea.  Corinne plays 10-12 live shows on Tuesdays to keep her loyal fans entertained.'
+        desc: 'An LGBQT+-friendly dance club that is Reese and Corinne’s primary hunting ground.  Thaddeus also made ample use of it, though Iz was far less keen on the idea.  Corinne plays live shows at 10-12:00 on Tuesdays to keep her loyal fans entertained.'
     },
     {
         name: 'Oasis Arms',
