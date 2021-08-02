@@ -7,6 +7,7 @@
     width: 100vw;
     height: 70vh;
     background: #181818;
+    display: none;
 }
 
 .legend {
@@ -51,4 +52,14 @@ h2 {
 
 #legend-label {
     font-size: 16pt;
+}
+
+#select-map-view {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+label {
+    margin: 1em;
 }

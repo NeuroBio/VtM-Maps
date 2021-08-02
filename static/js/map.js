@@ -30,7 +30,7 @@ const map = L.map('pheonix-map', {
     layers: [dark]
 });
 
-L.control.layers(baseMaps, overlays).addTo(map);
+L.control.layers(undefined, overlays).addTo(map);
 
 
 // set up domains

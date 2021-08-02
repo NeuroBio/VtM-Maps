@@ -38,15 +38,30 @@
                 (events and Kindred/Vampire havens) as well as gives quick bios on the
                 two player characters and the myriad of NPCs I commanded as the
                 Storyteller (game master).
-            </p>    
+            </p>
         </div>
 
         <div class="row">
-            <div id="pheonix-map"></div>
+            <form id="select-map-view">
+
+                <h2>
+                    Choose Map View:
+                </h2>
+                <label>Greater Phoenix Map
+                    <input type="radio" name="mapView" value="false" class="map-select" checked>
+                </label>
+    
+                <label>Hartstone Map
+                    <input type="radio" name="mapView" value="true" class="map-select">
+                </label>    
+            </form>
+        </div>
+        <div class="row">
+            <div id="pheonix-map" aria-label="Phoenix-map"></div>
         </div>
 
         <div class="row">
-            <div id="hartstone-map"></div>
+            <div id="hartstone-map" aria-label="hartstone-map"></div>
         </div>
 
         <div class="row">
@@ -83,5 +98,6 @@
         <!-- logic -->
         <script src="static/js/map.js"></script>
         <script src="static/js/hartstoneMap.js"></script>
+        <script src="static/js/htmlControls.js"></script>
     </body>
 </html>
