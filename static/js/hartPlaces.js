@@ -56,7 +56,7 @@ const hartPlaces = [
     },
     {
         name: 'Shopping District Parking Lot',
-        location: [1235, 1569],
+        location: [2135, 1569],
         desc: 'One of the main places where the homeless population in Hartstone congregates.  Protected by ex-Sheriff Raven and initially led by Dr. Duke, this group of people is now without a leader as Raven has made Duke into one of her newest Childer to help her rule all of Hartstone.'
     },
     {
@@ -74,5 +74,4 @@ const hartPlaces = [
         location: [1160, 850],
         desc: 'Originally the Anarch’s HQ, Prince Kim tasked her Ghoul Maxim with dynamiting the building into the ground.  Maxim was successful.  It earned him Raven’s attention, but also turned Thaddeus and Iz further against Kim due to the civilian casualties the demolition led to.'
     }
-
 ];
