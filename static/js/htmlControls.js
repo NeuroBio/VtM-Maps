@@ -15,6 +15,9 @@ d3.selectAll('input[class="map-select"]').on('change', switchMap);
 
 // set active character
 function setActiveChar(charName) {
+    if (!charName) {
+        charName = d3.select(this).property('value');
+    }
     const char = chars[charName];
     // set main info
     Object.keys(char).forEach(key =>
@@ -29,12 +32,16 @@ function updateEntries(people) {
     if (people === 'true') {
         const select = d3.select('#pick-element')
         select.html('');
-        Object.values(chars).forEach(char => 
+        Object.entries(chars).forEach(el => {
             select.append("option")
-            .text(char.fullName)
-            .property('value', char.fullName));
+            .text(el[1].fullName)
+            .property('value', el[0]);
+        })
     }
 }
 
+d3.select('#pick-element').on('change', setActiveChar);
+
+
 updateEntries('true');
-setActiveChar('Stefan');
+setActiveChar('Alyx');

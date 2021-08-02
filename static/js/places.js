@@ -57,12 +57,12 @@ places = [
     {
         name: 'Tres Leches Cafe',
         location: [33.45621894000305, -112.09680390806218],
-        desc: 'A meeting point between Ava and Thaddeus.  Ava is friends with the owner and uses the back room to train Thaddeus to perform new rituals.  Thaddeus hopes of one day impressing the Phoenix Chantry, specifically Lea, enough that he would be welcomed into the fold to get away from his borderline useless sire, Trevor.'
+        desc: 'A meeting point between Ava and Thaddeus.  Ava is friends with the owner and uses the back room to train Thaddeus to perform new rituals.  Thaddeus hopes of one day impressing the Phoenix Chantry, specifically Leigh, enough that he would be welcomed into the fold to get away from his borderline useless sire, Trevor.'
     },
     {
         name: 'Poseur',
         location: [33.43723101409645, -112.06412172406091],
-        desc: 'A dance club run by Toreadore Eves.  The club serves both mortal and immortal clientele, where mortals willing to donate blood get paid for their services.  The club is primarily frequented by the Poseur faction of Toreadores, but occasional Artistes are allowed (begrudgingly).  Rarely, other clans drop by for a bite, though Nosferatu are not permitted on premises.'
+        desc: 'A dance club run by Toreadore Eeves.  The club serves both mortal and immortal clientele, where mortals willing to donate blood get paid for their services.  The club is primarily frequented by the Poseur faction of Toreadores, but occasional Artistes are allowed (begrudgingly).  Rarely, other clans drop by for a bite, though Nosferatu are not permitted on premises.'
     },
     {
         name: 'Rest Haven Cemetary',
