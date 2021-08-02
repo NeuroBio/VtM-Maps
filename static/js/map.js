@@ -85,7 +85,7 @@ function postAsync() {
             color: '#99ccff',
             stroke: false,
             fillOpacity: .7,
-            radius: 15
+            radius: 17
         }).bindPopup(`<h2>${place.name}</h2><hr> <p class="desc">${place.desc}</p>`).addTo(placeMarkers);
     });
 

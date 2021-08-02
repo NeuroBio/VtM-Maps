@@ -10,8 +10,9 @@ const hartOverlays = {
 //  set up map image
 const hartMap = L.map('hartstone-map', {
     crs: L.CRS.Simple,
-    minZoom: 0,
-    maxZoom: 2
+    minZoom: -1,
+    maxZoom: 2,
+    zoom: 1
 });
 
 const ratioSize = 85;
@@ -29,9 +30,12 @@ function pixelToCoord(pixels) {
 
 // set up places markers
 hartPlaces.forEach(place => {
-    console.log(pixelToCoord(place.location))
-    L.marker(pixelToCoord(place.location))
-    .bindPopup(`<h2>${place.name}</h2><hr> <p class="desc">${place.desc}</p>`)
+    L.circleMarker(pixelToCoord(place.location), {
+        color: '#99ccff',
+        stroke: false,
+        fillOpacity: .7,
+        radius: 17
+    }).bindPopup(`<h2>${place.name}</h2><hr> <p class="desc">${place.desc}</p>`)
     .addTo(hartPlaceMarkers);
 });
 
