@@ -10,9 +10,9 @@ const hartOverlays = {
 //  set up map image
 const hartMap = L.map('hartstone-map', {
     crs: L.CRS.Simple,
+    zoom: 2,
     minZoom: -1,
     maxZoom: 2,
-    zoom: 1
 });
 
 const ratioSize = 85;
@@ -55,4 +55,8 @@ hartHavens.forEach(haven => {
 });
 
 hartPeopleMarkers.addTo(hartMap);
+
+// do this last
+hartMap.zoomIn();
+
 

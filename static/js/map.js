@@ -25,7 +25,7 @@ const overlays = {
 
 // build map
 const map = L.map('pheonix-map', {
-    center: [33.5, -111.8],
+    center: [33.4, -111.9],
     zoom: 11,
     layers: [dark]
 });
