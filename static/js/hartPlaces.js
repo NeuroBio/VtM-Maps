@@ -7,7 +7,7 @@ const hartPlaces = [
     {
         name: 'Hartstone Cemetary',
         location: [81, 158],
-        desc: 'The base camp for a Sabbat attack on Hartstone.  Semedi Jean-Robert rose and army of the undead while The Rancher organized a battalion of shovelheads to infiltrate the hospital.  Thaddeus and Iz eventually found Jean-Robert camped out in the Grayson family crypt, where they defeated him with help from the Anarch Baron Noah and Camarilla Sheriff Raven.'
+        desc: 'The base camp for a Sabbat attack on Hartstone.  Semedi Jean-Robert rose an army of the undead, while the Rancher organized a battalion of shovelheads to infiltrate the hospital.  Thaddeus and Iz eventually found Jean-Robert camped out in the Grayson family crypt, where they defeated him with help from the Anarch Baron Noah and Camarilla Sheriff Raven.'
     },
     {
         name: 'Remains to be Seen',
@@ -37,12 +37,12 @@ const hartPlaces = [
     {
         name: 'Oasis Arms',
         location: [2155, 130],
-        desc: 'An apartment complex built by Anarch Barn Noah.  When the theater is destroyed, it becomes the main Anarch HQ.  By the time Raven remakes Hartstone as an Autarkis Domain, this is one of the few pieces of territory still in the Anarch’s possession.'
+        desc: 'An apartment complex built by Anarch Barn Noah.  When the theater is destroyed, it becomes the main Anarch HQ.  By the time Raven remakes Hartstone as an Autarkis Domain, this is one of the few pieces of territory still in the Anarch’s possession.  The complex is also Noah’s preferred hunting grounds, which is extremely problematic for Thaddeus, as Thaddeus’ mortal friend Charlie lives there.'
     },
     {
         name: 'Grayson Manor',
         location: [1364, 139],
-        desc: 'Once the home of Garren Grayson and the Camarilla HQ, it was taken by the Anarchs when Garren joined the Gahenna wars and left his Ghoul, Erik, in charge.  The manor was eventually reclaimed by Prince Kim during her short stint in charge of Hartstone.  Now, the manor lies in the hands of ex-Camarilla Sheriff Raven as the headquarters of her new Autarkis.  There are plans to build a new Nosferatu warren under the manor, though the doorway to the hedge under the property’s pond will make such an endeavor complicated, if not impossible.'
+        desc: 'Once the home of Garren Grayson and the Camarilla HQ, it was taken by the Anarchs when Garren joined the Gehenna Wars and left his Ghoul, Erik, in charge.  The manor was eventually reclaimed by Prince Kim during her short stint in charge of Hartstone.  Now, the manor lies in the hands of ex-Camarilla Sheriff Raven as the headquarters of her new Autarkis.  There are plans to build a new Nosferatu warren under the manor, though the doorway to the hedge under the property’s pond will make such an endeavor complicated, if not impossible.'
     },
     {
         name: 'Hartstone Hospital',
@@ -52,17 +52,17 @@ const hartPlaces = [
     {
         name: 'Hartstone Public Library',
         location: [1912, 770],
-        desc: 'One of Elliott’s favorite haunts, and his preferred place to harass and try to blood-bond Thaddeus.  The librarian, Flora, takes great pride and helping Thaddeus use the microfische machine to get access to articles from the Hartstone local newspaper in the mid-1900s.'
+        desc: 'One of Elliott’s favorite haunts, and his preferred place to harass and try to blood-bond Thaddeus.  The librarian, Flora, takes great pride in helping Thaddeus use the microfische machine to get access to articles from the Hartstone local newspaper in the mid-1900s.'
     },
     {
         name: 'Shopping District Parking Lot',
         location: [2135, 1569],
-        desc: 'One of the main places where the homeless population in Hartstone congregates.  Protected by ex-Sheriff Raven and initially led by Dr. Duke, this group of people is now without a leader as Raven has made Duke into one of her newest Childer to help her rule all of Hartstone.'
+        desc: 'One of the main places where the homeless population in Hartstone congregates.  Protected by ex-Sheriff Raven and initially led by Dr. Duke, this group of people is now without a leader, as Raven made Duke into one of her newest Childer to help her rule Hartstone.'
     },
     {
         name: 'The Outskirts',
         location: [2550, 1700],
-        desc: 'Iz’s preferred hunting grounds.  There are plenty of javelinas and pronghorn and limited mountain lions.'
+        desc: 'Iz’s preferred hunting grounds.  There are plenty of javelinas and pronghorn and a limited number mountain lions out here.'
     },
     {
         name: 'Desert Fox',

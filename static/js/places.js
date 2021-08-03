@@ -17,7 +17,7 @@ places = [
     {
         name: 'The Freeport McMoran Building',
         location: [33.4517, -112.0730],
-        desc: 'By day, it is the headquarters of the largest publicly traded copper producer.  By night, it is the headquarters of the Phoenix Camarilla under Prince Santana.  The first time Thaddeus and Iz entered the building to drop off a package from Hartstone Prince Grayson to Prince Santana.  Along the way, Thaddeus accidently made the acquaintance of the rich blood-leach Dmitri, who would later participate in the coup to take over the Hartstone Camarilla.  On their second visit, the fledglings asked the Thinblood receptionist, TimJohn, about the possibility of meeting members of the Tremere Chantry in Phoenix, which put Thaddeus into communication with TimJohn’s Tremere sister, Ava.'
+        desc: 'By day, it is the headquarters of the largest publicly traded copper producer.  By night, it is the headquarters of the Phoenix Camarilla under Prince Santana.  Thaddeus and Iz first entered the building to drop off a package from Hartstone Prince Grayson to Prince Santana.  Along the way, Thaddeus accidently made the acquaintance of the rich blood-leach Dmitri, who would later participate in the coup to take over the Hartstone Camarilla.  On their second visit, the fledglings asked the Thin Blood receptionist, TimJohn, about the possibility of meeting members of the Tremere Chantry in Phoenix, which put Thaddeus into communication with TimJohn’s Tremere sister, Ava.'
     },
     {
         name: 'University of Phoenix',
@@ -52,7 +52,7 @@ places = [
     {
         name: 'The Bunker',
         location: [33.54291686521787, -111.72989569085152],
-        desc: 'What appears from the surface to be an abandoned cold war era bunker is actually the former haven of the Malkavians Rowan (“Spoonie”) and Aria (“Spider”) and Giovanni Tessa.  The Bunker was constructed by Garren Grayson to give the Malkavians a safe place away from the uneasy politics between the Carmailla and Anarch factions in Hartstone.  It was later expanded to give shelter to Tessa, who owed a great favor to Garren that involved the reanimating the dead mage Felix, Thaddeus’ uncle.  All of these Kindred heeded the call to join the Gehenna Wars in the Middle East and the bunker has been abandoned since.  Thaddeus and Iz were tricked into entering the bunker by the changling Coyote to fight another changling, Owlman.'
+        desc: 'What appears from the surface to be an abandoned cold war era bunker is actually the former haven of the Malkavians Rowan (“Spoonie”) and Aria (“Spider”) and Giovanni Tessa.  The Bunker was constructed by Garren Grayson to give the Malkavians a safe place away from the uneasy politics between the Carmailla and Anarch factions in Hartstone.  It was later expanded to give shelter to Tessa, who owed a great favor to Garren that involved the reanimating the dead mage, Felix, who was Thaddeus’ uncle.  All of these Kindred heeded the call to join the Gehenna Wars in the Middle East and the bunker has been abandoned since.  Thaddeus and Iz were tricked into entering the bunker by the changling Coyote to fight another changling, Owlman.'
     },
     {
         name: 'Tres Leches Cafe',
