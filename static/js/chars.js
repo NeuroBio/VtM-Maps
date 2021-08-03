@@ -74,14 +74,14 @@ chars = {
     Corinne: {
         fullName: 'Corinne Diel',
         player: 'The Storyteller',
-        concept: '',
-        ambition: '',
+        concept: 'Lost Soul',
+        ambition: 'Maintain her status as a star while getting enough status in the Camarilla to stay safe from the Anarchs',
         clan: 'Toreadore',
         faction: 'Autarkis (Under Raven)',
         childer: 'None',
         sire: 'Elliott Skry',
-        keyNote: '',
-        history: ''
+        keyNote: 'If it is Corgi-themed or shiny, you have her attention.',
+        history: 'This rock diva was starting to make a real name for herself and her band, Unreal Void, when she found herself seduced by the Anarch Toreadore, Elliott. Eli promised her love, power, and independence, but all she found in the Anarch movement was a coterie of sexist men and the one woman tough enough to earn their respect by ignoring how they treated their herd of battered women.  The Baron Noah, in particular, had a strong distaste for Corinne and tended to scapegoat her whenever group efforts failed.  Eli never stood up to him for her.  Unable to stand it anymore, Corinne left the Anarchs and begged for a place in Hartstone’s Camarilla Coterie. Despite her flighty nature, Corinne has thus has thus far proved herself committed to the Camarilla.... when she isn’t spending her nights trying to recapture her old glory playing music at Lava Snake.'
     },
     Dmitri: {
         fullName: 'Dmitri Turgenev',
@@ -362,14 +362,14 @@ chars = {
     Reese: {
         fullName: 'Reese Taylor',
         player: 'The Storyteller',
-        concept: '',
-        ambition: '',
+        concept: 'Petulant Rabblerouser',
+        ambition: 'Kill Trevor',
         clan: 'Tremere',
         faction: 'Autarkis (Under Raven)',
         childer: 'None',
         sire: 'Trevor Taylor',
-        keyNote: '',
-        history: ''
+        keyNote: 'A real sweetheart if you get passed the bro-level of ignorance and the temper.',
+        history: 'The son of Trevor, Reese never wanted anything to do with his father\'s lifestyle. He rejected it fully, submerging himself in drugs, petty crime, and thrills. He cleaned up his act when he got involved in sports so he could stay on the team, but when his mother died, and Reese became Trevor’s primary source of easy blood, he relapsed into drugs.  However, regardless of how much the black sheep strayed, Trevor kept watch over his son. When Reese nearly died in a drunken car accident, Trevor brought him back. Reese never appreciated the favor, as all it did was land him in the hands of an abusive Ventrue he ended up blood bonded to.  Trevor pulled Reese out of that situation and got them to safety in Garren’s Camerilla.  Reese is grateful to Garren and is mostly strongly held to the group in recent years by his feelings for Corinne, but will never forgive Trevor.  With Garren absent, Reese feels more and more like he can end his father once and for all.  He just needs a little help.  Reese very much hopes that help will come from his “brother” Thaddeus, Trevor’s new research assistant, who is already very fed up with his sire.  Despite a rough introduction, Reese and Thaddeus have a solid understanding of one another and had reasonably rely on one another.  Plus, Thaddeus is dating Reese’s best friend, Todd.  Reese is not exactly happy about the situation, because he fears Thaddeus might embrace Todd, but he tries to trust Thaddeus at his word that no such thing will occur.'
     },
     Scarlet: {
         fullName: 'Scarlet Santana',
@@ -489,6 +489,6 @@ chars = {
         childer: 'The Rancher, Irfan bin Malim, and Mohamad Izzuddin bin Haji Abdul Aziz',
         sire: 'N/A',
         keyNote: '"My shadow\'s shadow is me."',
-        history: 'A rebel in the 1946 anti-cession movement of the Sarawak, Zikri was pulled out of typical combat by the Sabbat to fight the war as a Kindred along with other soldiers.  He proved himself a true childe of diablerie by devouring other members of his unit when everything went to hell in a battle.  He did well in the Sabbat, but never truly feel into the dogma.  He was far more interested in the mortal child he had left behind than prophesies of Gehenna.  As such, he was drawn to follow his lineage all the way to Phoenix, where his great granddaughter, Allysia, lives.  Still, he remained loyal to the Sabbat until he discovered Irfan.  To make Irfan his childe (and keep him to himself) Zikri broke with the Sabbat and started giving intel to the Phoenix Camarilla in exchange for accepting him into the fold.  The upper layers of the Phoenix Camarilla gained a great deal of respect for Zikri, due to the headway they were able to make into former Sabbat territory using Zikri’s information. Naturally, the Anarchs would like Zikri very gone, because as the Camarilla gains ground, they have more angles to attack the Phoenix Anarchs from.  Zikri is secretly the Scourge for Phoenix, maintaining his diet by devouring thin blood and the illegally embraced.  Zikri recently sired Iz after a chance meeting where Iz held the door for Zikri.  Iz then brought about his destruction.  Twice.  It worked the second time.'
+        history: 'A rebel in the 1946 anti-cession movement of the Sarawak, Zikri was pulled out of typical combat by the Sabbat to fight the war as a Kindred along with other soldiers.  He proved himself a true childe of diablerie by devouring other members of his unit when everything went to hell in a battle.  He did well in the Sabbat, but never truly feel into the dogma.  He was far more interested in the mortal child he had left behind than prophesies of Gehenna.  As such, he was drawn to follow his lineage all the way to Phoenix, where his great granddaughter, Allysia, lives.  Still, he remained loyal to the Sabbat until he discovered Irfan.  To make Irfan his childe (and keep him to himself) Zikri broke with the Sabbat and started giving intel to the Phoenix Camarilla in exchange for accepting him into the fold.  The upper layers of the Phoenix Camarilla gained a great deal of respect for Zikri, due to the headway they were able to make into former Sabbat territory using Zikri’s information. Naturally, the Anarchs would like Zikri very gone, because as the Camarilla gains ground, they have more angles to attack the Phoenix Anarchs from.  Zikri is secretly the Scourge for Phoenix, maintaining his diet by devouring Thin Bloods and the illegally embraced.  Zikri recently sired Iz after a chance meeting where Iz held the door for Zikri.  Iz then brought about his destruction.  Twice.  It worked the second time.'
     },
 };
