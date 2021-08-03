@@ -194,14 +194,14 @@ chars = {
     Izzuddin: {
         fullName: 'Mohamad Izzuddin "Iz" bin Haji Abdul Aziz',
         player: 'Nuru',
-        concept: '',
-        ambition: '',
+        concept: 'Religious Mess',
+        ambition: 'Own a big chicken farm',
         clan: 'Malkavian',
         faction: 'He doesn\'t even know; everyone is scary',
         childer: 'None',
         sire: 'Zikri anak Lankau',
-        keyNote: '',
-        history: ''
+        keyNote: 'No-homos like his life depends on it.',
+        history: 'Born in Seremban. His father is from Jempol, while his mother hails from Bachok, Kelantan. Raised mostly as a city kid, but frequently visited his maternal grandparents on the countryside. Helped raise chickens and goats. Met Aisyah as a child. Sees her often as their parents are friends, eventually become friends. Agrees to marry her after a while. Lots of religious influence during his upbringing. Attended a prestigious all-boys boarding school. Straight A student. Often lead prayers. Nicknamed "syeikh". Accepted MARA loan to study overseas. Fiancée also headed overseas. Marriage plans after graduation.'
     },
     Jay: {
         fullName: 'Jay Darrow',
@@ -422,14 +422,14 @@ chars = {
     Thaddeus: {
         fullName: 'Thaddeus Kaiser',
         player: 'Vin',
-        concept: '',
-        ambition: '',
+        concept: 'Financially stressed emotionally repressed information sponge',
+        ambition: 'To find his parents and show his dad he can do magic',
         clan: 'Tremere',
         faction: 'Autarkis (Under Raven)',
         childer: 'None',
         sire: 'Trevor Taylor',
-        keyNote: '',
-        history: ''
+        keyNote: 'WORK HARD AND occassionally play... maybe',
+        history: 'Thaddeus was the second child to the Kaiser family. His father(Damien) was excited for his birth as he feared Annabella, his sister born 3 years prior, didn\'t inherit the magical aptitiude he had. Damien needed an heir. Years later, Thaddeus failed to show \'signs\' of magical potency. Damien showed little interest in his two children and kept his magical practices as secret as he could, although Thaddeus occasionally caught glimpses of strange rituals. As soon as they finished elementary school the two kids were sent off to a boarding school for the latter half of their education. Initially they kept in touch with their parents--mainly their mother, Rose. They\'d write letters, talk on the phone, and occasionally meet up for the holidays, but before long they stopped getting letters back, neither parent would answer the phone, and it became apparent they\'d moved address without telling them. Thaddeus did very well in school regardless, and when he finished he moved in with his sister who had just been accepted into the police force. He swiftly sought out higher education, intent on a career in fornesics after being inspired by his sister\'s career path. Scholarships paid for his tuition, but otherwise he relied on his sister for accommodation and the rest. He felt bad that she was paying for his living expenses, so he donated what ad revenue and donations he got from a blog he\'d started running on the side about the occult--something he\'d been fascinated in ever since seeing those strange rituals as a child. Despite being a factual person, Thaddeus always wondered if it was childish imagination or if his dad really was magic. Maybe he and his sister were shut off from the supernatural world because they weren\'t magic like him? Annabella could tell Thaddeus considered this and berated him for entertaining the thought, ranting at length about how their dad was some crazy pyscho who had cut them off from their mom and nothing justified that they were abandoned as adolescents. Thaddeus kept up the blog anyway, even going as far as researching archaeologoical techniques by recording finds in photographs and illustrations and drawing \'what could have been\'. He explored old sites that were supposedly haunted, even if they were sometimes out of bounds to the public--he made sure to keep this secret from his sister. In spite of their differences they got along most of the time. He may not have contributed much financially, but he looked after her saint bernard while she was at work and taking that beast on walks was about as difficult as doing the degree. It was a given that Thaddeus wouldn\'t be able to live with his sister forever, nor did he want to. He\'d wanted his own space for a while but the financial strain put him off. But Annabella was in a relationship with a guy named Lonnie, a Phoenix bartender, and one day they announced they wanted to get a place together, somewhere a bit bigger they could start their family. This was around the time Thaddeus got his med school doctorate, about a year ago. He got a residency doing forensic pathology in a place called Hartstone Hospital since then, but only moved out about a month ago after finally finding a place cheap enough for his budget, on account of a rumoured haunting. He\'s adopted a cat named Pumpkin to keep him company, and now that he\'s here, he\'s not holding back on his occult investigations. He\'s already done some digging into local myths and has found some suspicious reports he\'s keen to look into further. Although he doesn\'t live with her anymore, he still calls Annabella at least once a week to catch up. He misses hearing about her work day--he\'s learned a number of things about the black market from their conversations alone. She\'s only visited him once so far and that was when she was helping him move his stuff, and he last paid her a visit last weekend to catch up. Still, he\'s not keen on Lonnie\'s company. Thaddeus doesn\'t see the same charm in him Annabella does, and just sees laziness and ignorance.'
     },
     Rancher: {
         fullName: '"The Rancher"',
