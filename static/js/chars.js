@@ -266,14 +266,14 @@ chars = {
     Leigh: {
         fullName: 'Leigh Schapiro',
         player: 'The Storyteller',
-        concept: '',
-        ambition: '',
+        concept: 'Tremere overlord who is way too smart for you',
+        ambition: 'Just keep studying, just keep studying...',
         clan: 'Tremere',
         faction: 'Camarilla (Phoenix)',
         childer: 'None',
-        sire: 'N/A',
-        keyNote: '',
-        history: ''
+        sire: 'Margarette Fuchs',
+        keyNote: 'It\'s called the "pyramid" not the "triangle"',
+        history: 'Trevor\'s "older sister” and the preferred child. She was raised by Margarette, so her entire life was dedicated to the Tremere way, and she is an absolute stickler for tradition.  She will never understand why Trevor was made and will never miss an opportunity to facepalm at his failures.  Even better when she has a valid reason to call a bloodhunt on him.  She is the Tremere Primogen in Phoenix and is well respected in the chantry despite the fact that she took the Thin Blood turned Tremere, Ava, under her wing.'
     },
     Lola: {
         fullName: 'Lola',
@@ -326,14 +326,14 @@ chars = {
     Miranda: {
         fullName: 'Miranda Blake',
         player: 'The Storyteller',
-        concept: '',
-        ambition: '',
+        concept: 'Jut doing her',
+        ambition: 'Get the Sabbat out of Phoenix and make the Anarchs and Camarilla stop fighting for 5 seconds',
         clan: 'Brujah',
         faction: 'Autarkis (on her own in Phoenix)',
         childer: 'N/A',
-        sire: 'N/A',
-        keyNote: '',
-        history: ''
+        sire: 'Sheilah Daily',
+        keyNote: 'Best not to bother her when she just wants to have a fun night out at the club.',
+        history: 'A young circus acrobat who caught the eyes of her would be sire, an independent with a soft spot for the Anarchs when they\’re not being a pack of dumbasses. Shielah picked Miranda up as a lover, but was eventually called to the Middle East, leaving Miranda on her own. Now, this very young tenth generation neonate isn\'t quite sure what she should be doing, but she wants her forever home in Phoenix to remain that way.'
     },
     Noah: {
         fullName: 'Noah Dane',
@@ -374,14 +374,14 @@ chars = {
     Scarlet: {
         fullName: 'Scarlet Santana',
         player: 'The Storyteller',
-        concept: '',
-        ambition: '',
+        concept: 'Bemsed Gangrel Prince',
+        ambition: 'Get the Sabbat out of Phoenix.  The Anarchs are next.',
         clan: 'Gangrel',
         faction: 'Camarilla (Phoenix)',
         childer: 'N/A',
-        sire: 'N/A',
-        keyNote: '',
-        history: ''
+        sire: 'Hugh Duran',
+        keyNote: 'Put away your technology before this flight takes off.',
+        history: 'Once a farmer, Scarlet was embraced in a panic to cover a feeding mistake mistake.  As it turned out, she made for a feisty Gangrel.  Her Sire decided to keep her around as the best mistake he ever made. In the long run, as Scarlet experienced the greater world, she found herself drawn to luxury and social power more than the wilderness and savage power that typically grips a Gangrel. She settled in Phoenix to start making a name for herself in the Camarilla and got deep into the good graces of Prince Rodriguez for her style and ferocity.  When Rodriguez was called to the Middle East, Scarlet took over the Prince’s title. She was nowhere near first in line for the job, but she was more than strong enough to take it and continues to hold it unquestioned.'
     },
     Scorsese: {
         fullName: 'Scorsese',
@@ -410,14 +410,14 @@ chars = {
     SuJeong: {
         fullName: 'Kim Su-Jeong',
         player: 'The Storyteller',
-        concept: '',
-        ambition: '',
+        concept: 'The New Power',
+        ambition: 'Get total and permanent control over the Hartstone Camarilla.  Next?  The world.',
         clan: 'Ventrue',
         faction: 'Camarilla (Phoenix and Hartstone)',
-        childer: 'Erik Grayson',
-        sire: 'N/A',
-        keyNote: '',
-        history: ''
+        childer: 'Erik Grayson (via diablerie)',
+        sire: 'Sam Park',
+        keyNote: 'A real fire cracker.  She brings down the house.  She is the bomb...  What happened to the theater?',
+        history: 'Su-jeong spent about half of her mortal life in north Korea, until she was sex trafficked out to another country where she was met by her eventual Sire. He saw the potential in his would-be midnight snack and turned her lose as a member of his mafia-style gang in Russia. Eventually, he brought her into the fold to be a loyal ally... only to be later Diablerized by her.  Su-Jeong abandoned Russia and came to America with her partner in crime, Dmitri.  The two made a name for themselves in the Camarilla for being pushed between Princes as each decided their protégé was too ambitious for their tastes.  As far as she was concerned their ability to satisfy her without abdicating their own thrones was lacking anyway, and she was happy to move on.  When Prince Santana realized that Hartstone was being run by a Ghoul in Garren’s absence, she sent Su-Jeong to clean house and get the Hartstone Camarilla back in shape.  Kim’s reign was short lived, with her only major accomplishment being the destruction of the Hartstone Theater.  Soon after, she was Diablerized by the Ghoul she dethroned.'
     },
     Thaddeus: {
         fullName: 'Thaddeus Kaiser',
