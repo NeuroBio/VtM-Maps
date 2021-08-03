@@ -470,14 +470,14 @@ chars = {
     Wraith: {
         fullName: '"Wraith"',
         player: 'The Storyteller',
-        concept: '',
-        ambition: '',
+        concept: 'Don\'t Fuck with a Wolf',
+        ambition: 'Hold her Turf until the Camarilla and Anarchs extinct each otheer',
         clan: 'Gangrel',
         faction: 'Autarkis (on her own in Hartstone)',
         childer: 'N/A',
         sire: 'N/A',
-        keyNote: '',
-        history: ''
+        keyNote: 'What exactly does she see in Elliott that Alyx doesnt have?',
+        history: 'Wraith is an elusive creature and little is known about her history.  She is younger than Garren but had a claim in the Hartstone area before Garren arrived to settle the town.  Garren permitted her to have her domain in the wastes as long as she did not interfere with his business, an agreement she was happy to honor.  She now stands as the oldest Kindred in Hartstone and the respected tie breaker in discussions that affect the basic functioning of Kindred regardless of the faction the align themselves with.  She made one known childer, Alyx, but soon after abandoned her as “not good enough.”  However, she has a covert interest in the Toreadore Elliott, and pushes him to act in seditious ways that undermine both the Anarchs and the Camarilla.'
     },
     Zikri: {
         fullName: 'Zikri anak Langkau',
