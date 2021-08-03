@@ -134,14 +134,14 @@ chars = {
     Erik: {
         fullName: 'Erik Grayson',
         player: 'The Storyteller',
-        concept: '',
-        ambition: '',
+        concept: 'Ghoul Prince to Wildcard',
+        ambition: 'Hold the fort under Raven until Garren returns',
         clan: 'Ventrue',
         faction: 'Autarkis (Under Raven)',
         childer: 'None',
         sire: 'Kim Su-Jeong',
-        keyNote: '',
-        history: ''
+        keyNote: 'The real strength of a Ventrue is not in his Discipline Fortitude, but in his psychological fortitude',
+        history: 'The adopted son of Garren Grayson, Erik was groomed for power, with a strong academic background in philosophy, finance, and law. Garren had planned to eventually embrace Erik, but when the call to the Gehenna Wars in the Middle East grew too strong, Garren left without doing the deed.  His final orders were that Erik would rule with Sheriff Raven supporting him until Garren returned.  Erik made some spectacularly ill informed decisions in a bid to take Anarch turf that led to Camarilla losses in territory.  Erik became a better leader, but still lacked the experience he needed to rule effectively or the advantages of a Ventrue to force he reign to be successful.  When Thaddesu and Iz join his Coterie, Erik does his best to keep both fledglings under control.  He gains Thaddeus’ trust for a while, but quickly loses Iz’s.  Erik was almost killed when Kim Su-Jeong came to Hartstone to usurp the Princedom, but Thaddeus stepped up and agreed to blood bond Erik into a “proper Ghoul.”  Erik’s attempts to remove Kim from Hartstone led him to being blood bonded to the Anarch Baron Noah instead.  When Kim was finally taken down, Erik called in a favor from Iz’s sire, Zikri, to help him steal Kim’s blood to become a Ventrue.  Erik them proceeded to Diablerize her, which broke the blood bond to Noah.  Raven and her Nosferatu allies were more than ready to exterminate Erik, until he traded his right to the title of Prince as a Grayson for the toleration of his existence and no-questions-asked access to Garren’s assets.  He promised that when Garren returned, Erik would take full responsibility for any actions that were taken which Garren disapproved of.'
     },
     Gab: {
         fullName: 'Gabriel "Gab" Orchard',
@@ -350,14 +350,14 @@ chars = {
     Raven: {
         fullName: 'Raven Freeman',
         player: 'The Storyteller',
-        concept: '',
-        ambition: '',
+        concept: 'Nosferatu Sheriff',
+        ambition: 'Hold her newfound power',
         clan: 'Nosferatu',
-        faction: 'Autarkis (Under Raven)',
+        faction: 'Autarkis (She is the leader)',
         childer: 'Dr. Duke and Maxim',
-        sire: 'N/A',
-        keyNote: '',
-        history: ''
+        sire: '"Crest"',
+        keyNote: 'Mess with the downtrodden and she\'ll mess with you.',
+        history: 'Raven was an Olympics gold medalist turn Olympics coach turned as her career reached its peak and attracting the attention of her sire.  She did not have much time with her before she was captured by the Second Inquisition.  She eventually made a spectacular escape and joined the Camarilla under Garren Grayson for protection. She will avoid behavior that risks bringing in the Second Inquisition at all costs, though she has become a coder in the modern era.  She knows making online communications programs is a risky business for Kindred, but she’s confident enough in her skills to believe she that her messaging app, Corvid, cannot be hacked.  As the Sheriff under Garren, she maintained the Camarilla boundaries.  However, Erik’s mistakes cost the Camarilla enormous amounts of territory to the Anarchs, and Raven has lost all respect for the Ghoul joke of a Prince.  Raven’s ambitions to lead have recently come to fruition, as Erik was forced to succeed his right to the title of Prince as a newly turned Ventrue (via Diablerie) or risk extermination.  Outside of politics, Raven has a personal interest in the homeless that congregate in the parking lot by the Prawn Pawn.  She acts as their protector and even earned herself legendary status through the urban legend of “Rags.”'
     },
     Reese: {
         fullName: 'Reese Taylor',
@@ -458,14 +458,14 @@ chars = {
     Trevor: {
         fullName: 'Trevor Taylor',
         player: 'The Storyteller',
-        concept: '',
-        ambition: '',
+        concept: 'Bookish Pessimist',
+        ambition: 'Cure vamparism',
         clan: 'Tremere',
         faction: 'Autarkis (Under Raven)',
         childer: 'Reese Taylor and Thaddeus Kaiser',
-        sire: 'N/A',
-        keyNote: '',
-        history: ''
+        sire: 'Margarette Fuchs',
+        keyNote: '"But that book can\'t go there Thaddeus, it\'s all wrong."',
+        history: 'Trevor was a faith healer in life.  When he was embraced, his skills as a Tremere were less than impressive.  Once he realized that he had lost his ability to faith heal, he turned into an occult research fanatic. His desire to be a consensualist drinker has led to many Masquerade Violations and suspicious of him for this early carelessness has not left him even as he has grown more adept at avoiding mistakes.  He destroyed his mortal family by only being around to feed on them.  His wife eventually succumbed to cancer as he hid in his studies, hoping to find a cure.  Meanwhile, is son, Reese, grew to resent him as the absent careless father who used Reese as nothing but a resource.  When Reese got into a lethal car crash, Trevor intervened in life and death and brought Reese back as his childe.  Without the permission of the Chicago Camarilla.  Reese was immediately taken from Trevor and put into the care of a Ventrue, who emotionally abused Reese.  Desperate to finally do the right thing for once, Trevor nearly killed Reese’s mentor, tied Reese up so he could not escape, and took to the road.  After months of finding no shelter or reprieve from the ever-growing blood hunt, Trevor met Garren, who was more than happy to take him in and negotiate that the rest of the Prince involved leave Trevor alone.  While the Garren’s Coterie generally treats him well (while rolling their eyes at his stubbornness and inability to adapt to the modern era), outsider Camarilla do not trust him.  Reese still despises Trevor and looks for any excuse to torment him.  Trevor is happy enough to have his little nest of artifacts and books and do whatever Garren tells him so he can live in peace.  Trevor had hoped he had found the perfect replacement son when he sired in his new research assistant, Thaddeus.  He was wrong.  So wrong.  Thaddeus already had enough daddy issues, thanks.'
     },
     Wraith: {
         fullName: '"Wraith"',
