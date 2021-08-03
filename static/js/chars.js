@@ -14,14 +14,14 @@ chars = {
     Antonia: {
         fullName: 'Antonia Santos',
         player: 'The Storyteller',
-        concept: '',
-        ambition: '',
+        concept: 'Sick of your Negative VIBES, man',
+        ambition: 'Rectify things with her sire aka have him admit he was wrong',
         clan: 'Malkavian',
         faction: 'Camarilla (Phoenix)',
         childer: 'None',
-        sire: '',
-        keyNote: '',
-        history: ''
+        sire: 'Will Sumptor',
+        keyNote: 'Feeling down?  Take a worry stone.  You killing the energy in the room.',
+        history: 'Antonia is a young Brazilian who grew up on a coffee farm. The farm also had a small assortment of animals, so she not only knows coffee inside and out, but is familiar enough with pigs and chickens. She always had an interest in the stars, however, and wanted to study Astrophysics. She worked hard through high school to get a scholarship to study in Nashville and eventually even do graduate school there, as science is severely under-funded in Brazil. She met with her sire at a star gazing event. He was more interested in astrology than the hard science of space, but they found one another\'s unique take on the stars interesting and their love of the vast unknown a point of common ground. Will brought her over to make her his wife, which ended her graduate career before she got her degree.  To make matters worse, Will turned out to be a bit of the smothering type.  When Antonia demanded more space to be herself and pursue her interests alone, he took it personally and sent her off to Phoenix. She is still waiting for Will’s invitation to return so they can try to work things out.  Like adults.'
     },
     Aurelio: {
         fullName: 'Aurelio "Ari" Donini',
@@ -158,26 +158,26 @@ chars = {
     Gree: {
         fullName: 'Griffon "Gree" Perez',
         player: 'The Storyteller',
-        concept: '',
-        ambition: '',
+        concept: 'Rich "Engineer"',
+        ambition: 'Creat his inner world outside',
         clan: 'Malkavian',
         faction: 'Camarilla (Phoenix)',
         childer: 'Kyle Bennet',
         sire: 'Lydia Perez',
-        keyNote: '',
-        history: ''
+        keyNote: 'When upset, his word turns upside down.  Quite literally.',
+        history: 'Initially destined to be a medical doctor, Gree changed his mind about his lifepath at the last second after taking a trip to New York and becoming fascinated with the seemingly impossible buildings. He took up engineering while eyeing architecture, so he could make skyscrapers himself. He made the acquaintance of Lydia by accident at the unveiling of his first major building: a massive skyscraper with a wonderful glass ceiling from which one could see the stars even in the bright city. The two struck up a friendship that eventually gave way to a marriage proposal and following embrace. Lydia moved to Phoenix with Gree, so he could take on even bigger projects, but as his Malkavian nature solidified, Gree was far more interested in building and rebuilding his own home than creating anything for the public. Lydia can no longer live with him, because Gree so particular about what he wants him home to look like—which changes constantly—that there is no way for Lydia to exist in his space without upsetting him.  However, they meet up outside regularly.'
     },
     Irfan: {
         fullName: 'Irfan "Ivan" bin Malim',
         player: 'The Storyteller',
-        concept: '',
-        ambition: '',
+        concept: 'The Quiet One',
+        ambition: 'Avenge Zikri\'s Death',
         clan: 'Malkavian',
         faction: 'Camarilla (Phoenix)',
         childer: 'None',
         sire: 'Zikri anak Langkau',
-        keyNote: '',
-        history: ''
+        keyNote: 'Just because he can\'t stop shaking doesn\'t mean he can\'t rip you limb from limb',
+        history: 'Born with nerve damage Irfan has always had a mild resting tremor in his hands and a small stutter. This led to much teasing and harassment when Irfan was young, and he developed into a very quiet boy with a secret habit of beating his bullies into submission when no one was around to stop him. His parents send him to become a boy scout, hoping this would help him build more relationships. It didn\'t really work, but Irfan did excel at being a scout. He took up fencing and other sports to improve his control, though he could never conquer his resting tremor. Still, his academics and extensive extracurriculars were more than sufficient to land him a scholarship to an American university to study programming; a lowkey job with minimal human interaction.  Irfan was about halfway through his studies when he accidently met Zikri.  Zikri saw a ball of rage under Irfan’s mousy submission exterior and did everything he could to bring it out.  Irfan despised him, even as the two formed a blood bond that left them in an inseparable, toxic relationship for decades.  Irfan eventually learned to allow Zikri to drink from him while avoiding the drink himself to keep his head clear and his Sire satisfied.  Not that they ever stopped fighting, or the relationship ever stopped being abusive.  Together, they formed quite a duo, with Irfan focusing on taking out mortal trash to feed him hunger while Zikri takes out the immortal trash.  With Zikri now dead, Irfan is trying to pick up the pieces of his life that remain and figure out how to live without an overbearing, iron grip holding him down.'
     },
     Iris: {
         fullName: 'Iris Blair',
@@ -254,14 +254,14 @@ chars = {
     Kyle: {
         fullName: 'Kyle Bennet',
         player: 'The Storyteller',
-        concept: '',
-        ambition: '',
+        concept: 'Please help me, I am drowning in electricity',
+        ambition: 'Find an electricity-free place to live',
         clan: 'Malkavian',
         faction: 'Camarilla (Phoenix)',
         childer: 'None',
         sire: 'Griffon Perez',
-        keyNote: '',
-        history: ''
+        keyNote: 'A sweetheart who writes terrible poetry.  Don\'t break him.',
+        history: 'Why do Malkavians do this? Kyle met his sire Gree when he accidently entered Gree\’s house, thinking it was an abandoned construction project.  Despite the initial awkwardness, the two hit it off well.  Kyle was struggling to find understanding for his electro-sensitivity from his biological family and Gree, while he didn\’t understand it, was very sympathetic.  Gree quickly grew into a surrogate father figure for Kyle.  Gree decided to allow Kyle into his immortal family when he saw how well Kyle and Lydia got along.  Kyle made for a good fledgling until his fear of electronics became so goddamn annoying that Gree had to kick him out.  Kyle might have also taken to ripping the wiring out of Gree\’s house.  Granted Gree had done the same thing several times already because it wasn’t quite right, but that is beside the point.  In his free time, Kyle writes epicy weird slam poetry. It is not very good, but the poetry community loves him anyway because he’s so enthusiastic about the art.  With everyone else though... Kyle tries. He really, really tries.'
     },
     Leigh: {
         fullName: 'Leigh Schapiro',
@@ -302,14 +302,14 @@ chars = {
     Lydia: {
         fullName: 'Lydia Perez',
         player: 'The Storyteller',
-        concept: '',
-        ambition: '',
+        concept: 'Joyously Delivers Bad News',
+        ambition: 'Survive her upcoming death (which she predicted)',
         clan: 'Malkavian',
         faction: 'Camarilla (Phoenix)',
         childer: 'Griffon Perez',
-        sire: 'N/A',
-        keyNote: '',
-        history: ''
+        sire: 'Sam Hane',
+        keyNote: 'She is positively delighted to tell you about the horible thing that\'s going to happen to you next week!',
+        history: 'Lydia was a fortune teller in life with a deep love of Halloween.  Perhaps she more truly loved Dia de los Muertos, as this was in line with her cultural heritage, but Halloween was easier to celebrate on a big scale in the US.  A lot of her mortal work focused on smoke and mirror tricks, because she delighted in frightening people.  She even worked in seasonal haunted houses.  However, Lydia also had a legitimate connection to the spirit world, though nothing as strong as her fortune telling implied.  Unfortunately, her life was surrounded by tragedy.  Watching so many terrible things happen to the people around her, taught her to just shrug off bad events and accept that life is full of a lot of bad luck for everyone.  There\'s not much point in dwelling on it. It makes her overall quite cheery, even in the face of terrible events, but it also means that when life truly takes a dark turn for her, she has no ability to process it. Lydia was picked for the embrace by Sam, who also has a deep love of Halloween.  Sadly, she was a little too cheery for her wannabe-edgelord sire, so they\'ve parted ways, but she still thinks of him fondly. Lydia is a mystery novel and true crime buff. Combined with her nosiness and perceptiveness, it makes her quite the investigator.  Lydia is very good at picking out details about other people to the point that it\'s hard to know when she is deducing facts or divining them.  As things stand now, Lydia is quite happy with her life in Phoenix with her husband Gree and pseudo-adopted son Kyle.  She is a well-respected member of the Camarilla, and the only Malkavian anyone in the upper ranks wants to talk to (besides Zikri) and everyone prefers it this way.'
     },
     Maxim: {
         fullName: 'Maxim',
@@ -482,13 +482,13 @@ chars = {
     Zikri: {
         fullName: 'Zikri anak Langkau',
         player: 'The Storyteller',
-        concept: '',
-        ambition: '',
+        concept: 'The worst possible build for a blood leach',
+        ambition: 'Save his granddaughter and get out of dodge',
         clan: 'Malkavian',
         faction: 'Camarilla (Phoenix)',
         childer: 'The Rancher, Irfan bin Malim, and Mohamad Izzuddin bin Haji Abdul Aziz',
         sire: 'N/A',
-        keyNote: '',
-        history: ''
+        keyNote: '"My shadow\'s shadow is me."',
+        history: 'A rebel in the 1946 anti-cession movement of the Sarawak, Zikri was pulled out of typical combat by the Sabbat to fight the war as a Kindred along with other soldiers.  He proved himself a true childe of diablerie by devouring other members of his unit when everything went to hell in a battle.  He did well in the Sabbat, but never truly feel into the dogma.  He was far more interested in the mortal child he had left behind than prophesies of Gehenna.  As such, he was drawn to follow his lineage all the way to Phoenix, where his great granddaughter, Allysia, lives.  Still, he remained loyal to the Sabbat until he discovered Irfan.  To make Irfan his childe (and keep him to himself) Zikri broke with the Sabbat and started giving intel to the Phoenix Camarilla in exchange for accepting him into the fold.  The upper layers of the Phoenix Camarilla gained a great deal of respect for Zikri, due to the headway they were able to make into former Sabbat territory using Zikri’s information. Naturally, the Anarchs would like Zikri very gone, because as the Camarilla gains ground, they have more angles to attack the Phoenix Anarchs from.  Zikri is secretly the Scourge for Phoenix, maintaining his diet by devouring thin blood and the illegally embraced.  Zikri recently sired Iz after a chance meeting where Iz held the door for Zikri.  Iz then brought about his destruction.  Twice.  It worked the second time.'
     },
 };
