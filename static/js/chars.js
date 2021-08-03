@@ -50,14 +50,14 @@ chars = {
     Ava: {
         fullName: 'Ava Johnson',
         player: 'The Storyteller',
-        concept: '',
-        ambition: '',
+        concept: 'A nice Tremere',
+        ambition: 'Get Tim to be a full Vampire',
         clan: 'Tremere',
         faction: 'Camarilla (Phoenix)',
         childer: 'None',
         sire: 'TimJohn',
-        keyNote: '',
-        history: ''
+        keyNote: 'A promising up-and-comer.  We\'ll see how nice she is after a few decades of Tremere bureaucracy.',
+        history: 'The stereotypical "good girl" to her brother, who was a bit of a ditz and tended to be missing frequently. Ava adored her little brother none-the-less.  Her own path pursued a focused and standard career in science: good grades, scholarships, college, grad school. She had just finished her degree when she got a panicked call from a newly embraced and abandoned Tim begging for help. She did the best she could to help him, but he avoiding feeding for too long and los the ability to control himself.  He ended up killing her to sate his thirst.  And he had the fortitude to bring her back.  Ava’s early days as a vampire were spent as the Camarilla\'s expendable errand girl.  When a blood hunt was called on a rogue Tremere, she and TimJohn managed to take down the target during the day. Because it was Tim\'s fault that she was turned, he allowed Ava to Diablerize the Tremere to become a full Kindred. When she presented her newly ascended self to the court, no one was sure what to do with her.  She had acted within what was allowed for a bloodhunt, but most of the Tremere Chantry wanted nothing to do with the Kindred that had destroyed one of their own.  Ava had little chance of fitting into Kindred Society without a mentor, and many of the elders believed bringing her death was the appropriate solution.  Leigh, the Tremere Primogen, stepped forward. If Ava could prove herself worthy of Tremere blood, Leigh promised to take on her tutelage.  Ava proved to be a more than worthy apprentice.'
     },
     Check: {
         fullName: '"Check"',
@@ -446,14 +446,14 @@ chars = {
     TimJohn: {
         fullName: 'Tim "TimJohn" Johnson',
         player: 'The Storyteller',
-        concept: '',
-        ambition: '',
+        concept: 'The kicked dog',
+        ambition: 'Becom a full vampire',
         clan: 'Thin Blood',
         faction: 'Camarilla (Phoenix)',
         childer: 'Ava Johnson',
-        sire: 'N/A',
-        keyNote: '',
-        history: ''
+        sire: 'Desmond',
+        keyNote: 'There is always someone lower than you on the totem pole somewhere.  Unless you are TimJohn.  He\'s reached the bottom.',
+        history: 'Tim is a college dropout, who had a connection to his sire for years without knowing hi true nature. His sire was a "friend" and benefactor for whom Tim did odd jobs for extra cash.  In truth, the man, Desmond (a Ventrue), was training Tim to be an exquisite ghoul. However, another Vampire looking to get back as Desmond killed Tim after only a month of service as a Ghoul. Desmond, unwilling to cut his loses and move on, performed the embrace. Once he saw what he had created, he skipped town, leaving Tim to fend on his own. Tim was not aware enough of Kindred rules to avoid making a number of disastrous, naive mistakes.  When everything came apart, Tim threw himself and his new sired sister at the mercy of Price Santana, who was willing to take them in as branded, day-walking servants.  While Ava escaped this life and ascended to being a full Tremere, TimJohn is still the scorned secretary at the Camarilla HQ.'
     },
     Trevor: {
         fullName: 'Trevor Taylor',
