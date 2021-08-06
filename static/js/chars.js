@@ -2,14 +2,14 @@ chars = {
     Alyx: {
         fullName: 'Alyx Duval',
         player: 'The Storyteller',
-        concept: '',
-        ambition: '',
+        concept: 'The Wolf... until Wraith shows up...',
+        ambition: 'Take out the Camarilla',
         clan: 'Gangrel',
         faction: 'Anarch (Hartstone)',
         childer: 'None',
         sire: 'Wraith',
-        keyNote: '',
-        history: ''
+        keyNote: 'Car Crusher',
+        history: 'Alyx used to be a reality tv survivor until the episode in feral Arizona cut her career short.  Whatever Wraith thought she saw in Alyx clearly was lacking in the new childe.  After a few months of abuse, Wraith abandoned Alyx, and she joined the Anarchs.  With them, Alyx is a silent, unstoppable force who commands respect.  Her tail drops between her legs anytime Wriath steps into the room though.'
     },
     Antonia: {
         fullName: 'Antonia Santos',
@@ -26,26 +26,26 @@ chars = {
     Aurelio: {
         fullName: 'Aurelio "Ari" Donini',
         player: 'The Storyteller',
-        concept: '',
-        ambition: '',
+        concept: 'Scary but Pretty',
+        ambition: 'Get over some old trauma first, then worry about goals',
         clan: 'Toreadore',
         faction: 'Camarilla (Phoenix)',
         childer: 'N/A',
-        sire: 'N/A',
-        keyNote: '',
-        history: ''
+        sire: 'Vanni Verratti',
+        keyNote: 'Position: Bouncer at Poseur',
+        history: 'An ex-vet of the Italian army, Aurellio was at many of the losing battles in the Ethopian war and became incredibly disillusioned with war and society in general.  However, he had to keep fighting the good fight, because he could not get discharged.  He was spotted one night by his sire who thought he was GORGEOUS. And that\'s been the main thing he\'s contributed to the community: he\'s pretty.  Most Toreadors just want to look at him and for him to NEVER talk, because his soft-spoken, dour and sarcastic commentary is off-putting. He\'s spent most of his Unlife being pushed from one Coterie to another as one Toreador or another claims him as theirs for his beauty before dumping him for being useless.  In Phoenix, Aurelio acts as an intense foil to Eeves, who finds him incalculably hilarious and wonderful. He\'s happy to stand by her side now, and he\'s been with longer than he\'s been with anyone else.'
     },
     Aus: {
         fullName: 'Austin "Aus" Banks',
         player: 'The Storyteller',
-        concept: '',
-        ambition: '',
+        concept: 'Rat Whisperer',
+        ambition: 'Convert Hartstone into a massive Nos Haven',
         clan: 'Nosferatu',
         faction: 'Autarkis (Under Raven)',
         childer: 'Jeeves and Lucas',
-        sire: '',
-        keyNote: '',
-        history: ''
+        sire: 'Barry Grendal',
+        keyNote: 'He still uses a helical cord phone',
+        history: 'N/A'
     },
     Ava: {
         fullName: 'Ava Johnson',
@@ -68,7 +68,7 @@ chars = {
         faction: 'Autarkis (Under Raven)',
         childer: 'N/A',
         sire: 'N/A',
-        keyNote: '"Don\t mess with Check or he might literally eat you."',
+        keyNote: '"Don\'t mess with Check.  He might literally eat you."',
         history: 'N/A'
     },
     Corinne: {
@@ -86,50 +86,50 @@ chars = {
     Dmitri: {
         fullName: 'Dmitri Turgenev',
         player: 'The Storyteller',
-        concept: '',
-        ambition: '',
+        concept: 'RICH RICH IRCH',
+        ambition: 'Help Su-Jeong become Prince and enjoy the perks of being her Sheriff',
         clan: 'Toreadore',
         faction: 'Camarilla (Phoenix and Hartstone)',
         childer: 'None',
-        sire: 'N/A',
-        keyNote: '',
-        history: ''
+        sire: 'Michail Turgenev',
+        keyNote: 'Used to own a Rolls-Royce until Alyx happened to it',
+        history: 'A petty crook that got himself involved in Sam Park\'s gang. As Su-Jeong was rising to power, Dmitri struck up a friendship with her and he helped her Diablerize Park. He takes full credit for the deed even though Su-Jeong got all the benefits. The two are an inseparable duo.  Dmitri is a blood leach, so he keeps himself fed by having a large number of intimate relationships with Kindred through Phoenix.  He fairly aggressively pursued Thaddeus for this purpose.  Thaddeus appreciated the attention at first until he realized that Dmitri had very little empathy for mortals.'
     },
     Duke: {
         fullName: 'Dr. Duke',
         player: 'The Storyteller',
-        concept: '',
-        ambition: '',
+        concept: 'Beggar King',
+        ambition: 'Unclear',
         clan: 'Nosferatu',
         faction: 'Autarkis (Under Raven)',
         childer: 'None',
         sire: 'Raven Freeman',
-        keyNote: '',
-        history: ''
+        keyNote: '"Definitely Raven\'s boyfriend"',
+        history: 'N/A'
     },
     Eeves: {
         fullName: 'Yves "Eeves" Tremble',
         player: 'The Storyteller',
-        concept: '',
-        ambition: '',
+        concept: 'Perky Club Owner',
+        ambition: 'Make her club one of the hottest Kindred feeding spots in Phoenix',
         clan: 'Toreadore',
         faction: 'Camarilla (Phoenix)',
         childer: 'N/A',
-        sire: 'N/A',
-        keyNote: '',
-        history: ''
+        sire: 'Renaud Bellamy',
+        keyNote: 'Not your average Toreadore',
+        history: 'An exotic dancer in France, Eeevs accidently seduced her sire (a regular customer) into doing something other than give her cash. Turns out they drive one another crazy. They still communicate by letter in friendly tones, but if they are in the same room the fight is inevitable. At the close of WW2, Eeves decided to come to America to get away from her Sire for good. She bounced around the country for a while before settling in Phoenix.  The Phoenix community was mostly composed of Artiste Toreadors, so Eeves was treated like crap in Toreadore spaces, but she loved the area. Now, she owns a highly successful night club to help feed the Poseur community. Eeves allows almost no Artistes into her club out of spite.'
     },
     Elliott: {
         fullName: 'Elliott "Eli" Skry',
         player: 'The Storyteller',
-        concept: '',
-        ambition: '',
+        concept: 'Torn Loverboy or Side-Shifting Flake?',
+        ambition: 'Unclear, as Baron Noah has lost power',
         clan: 'Toreadore',
         faction: 'Anarch (Hartstone)',
         childer: 'Corinne Diel',
         sire: 'He Doesn\'t know',
-        keyNote: '',
-        history: ''
+        keyNote: 'Well known among Malkavians as the "Feathered Fop."',
+        history: 'A bit of a troublemaker in his teens, Elliott was well known for trespassing into off limits areas to do geocaching. In school, he focused more on musical performance than academics, but it paid off; he was able to get scholarships to play and learn to conduct in college.  It was during this time that he was turned by mistake.  His sire got so lost in his own little world during the kiss, that a little midnight snack turned deadly. Elliott woke alone in a strange city, and, after stumbling around confused for several nights, he was found by Noah, who took him under his wing. While Elliott is not particularly committed to the Anarch cause, he acts as though he is extremely committed to Noah.  He is also clearly of the mind that the Camarilla is of a stifling organization that will prevent him from living the life to which he is accustomed.'
     },
     Erik: {
         fullName: 'Erik Grayson',
@@ -146,14 +146,14 @@ chars = {
     Gab: {
         fullName: 'Gabriel "Gab" Orchard',
         player: 'The Storyteller',
-        concept: '',
-        ambition: '',
+        concept: 'Sexist Know-it-all (Who keeps it to himself)',
+        ambition: 'Become the Baron',
         clan: 'Brujah',
         faction: 'Anarch (Hartstone)',
         childer: 'None',
         sire: 'Noah Dane',
-        keyNote: '',
-        history: ''
+        keyNote: 'Moves lightning fast for a guy with that kind of muscle',
+        history: 'Gab carries a long history of trust issues against everyone, but especially women.  He feels more in control when he has women bowing to his whims, though he tends to keep the way he acts this out lowkey, so no one can question him. As a mortal, Gab was a history teacher and coach, giving him a position of authority and an easy group of people to command.  Noah chose Gab for the embrace because the two had overlapping political views, and Gab acted with a level hand.  Or, at least he appeared to.  After the embrace, Gab grew to resent Noah and actively works to undermine him should Noah show any sign of weakness or make any mistake.  Gab gets his day-to-day control fix sated by leading an enlightenment cult. The Church of All Faiths recognizes Gab’s group as dangerous and abusive and will do ANYTHING to shut it down.'
     },
     Gree: {
         fullName: 'Griffon "Gree" Perez',
@@ -182,14 +182,14 @@ chars = {
     Iris: {
         fullName: 'Iris Blair',
         player: 'The Storyteller',
-        concept: '',
-        ambition: '',
+        concept: 'Uh oh, the players just adopted a pet',
+        ambition: 'Not get murdered',
         clan: 'Tremere',
         faction: 'Anarch (Hartstone)',
         childer: 'None',
         sire: 'She doesn\'t know',
-        keyNote: '',
-        history: ''
+        keyNote: 'May not be long for this world',
+        history: 'Iris was one of the many people taken in the night to make a batch of shovelheads for a Sabbat attack Phenix and Hartstone.  Iris was able to negotiate not being murdered by Iz and Thaddeus, because she was too wounded to fight and willing to give up information.  She was left in the hands of Jay with the Anarchs.  Noah has little faith that Iris will ever be anything other than an unstable threat.'
     },
     Izzuddin: {
         fullName: 'Mohamad Izzuddin "Iz" bin Haji Abdul Aziz',
@@ -206,50 +206,50 @@ chars = {
     Jay: {
         fullName: 'Jay Darrow',
         player: 'The Storyteller',
-        concept: '',
-        ambition: '',
+        concept: 'Fawning Anti-Rebel',
+        ambition: 'Gain more status in teh Anarchs',
         clan: 'Brujah',
         faction: 'Anarch (Hartstone)',
         childer: 'None',
         sire: 'Noah Dane',
-        keyNote: '',
-        history: ''
+        keyNote: 'There\'s something endearing and yet pathetic about a pacifist Brujah',
+        history: 'Growing up, Jay loved animals, keeping and healing them despite his parents’ strict rules not to.  It was no surprise when he went into veterinary science. Noah brought him over for convenience; the baron needed someone to care for his ever-growing herd of chickens. And the herd of people kept in the Anarch Elysium.'
     },
     JeanRobert: {
         fullName: 'Jean-Robert',
         player: 'The Storyteller',
-        concept: '',
-        ambition: '',
+        concept: 'Necromancer',
+        ambition: 'Further the Sabbat Plot',
         clan: 'Semedi',
         faction: 'Sabbat (Phoenix)',
         childer: 'N/A',
         sire: 'N/A',
-        keyNote: '',
-        history: ''
+        keyNote: '"Move your dead bones, bones, bones.  The secret will keep you alive..."',
+        history: 'N/A'
     },
     Jeeves: {
         fullName: 'Carl "Jeeves" Jung',
         player: 'The Storyteller',
-        concept: '',
-        ambition: '',
+        concept: 'A walking pun with very little sense of humor himself',
+        ambition: 'Help turn Hartstoen into a Nos Haven',
         clan: 'Nosferatu',
         faction: 'Autarkis (Under Raven)',
         childer: 'None',
         sire: 'Austin Banks',
-        keyNote: '',
-        history: ''
+        keyNote: 'As a matter of fact, he can discuss psychology with you',
+        history: 'An academic added to the fold to act as an interface between the Camarilla Prince and the Nosferatu. While Jeeves was initially designed for a background, negotiatory role, his personality meshes with Prince Santana\'s in a way that makes him an ideal, diplomatic Sheriff to reflect her bad cop style of Princing. Jeeves had to increase his physical prowess to keep up with her bad habit of making irreconcilable enemies, however.  He’s looking forward to working with Raven, who is more cool-headed and more than capable of handling herself.'
     },
     Kirill: {
         fullName: 'Kirill Kulikov',
         player: 'The Storyteller',
-        concept: '',
-        ambition: '',
+        concept: 'Work over Ettiqeutte',
+        ambition: 'To make statues that are featured in Elysiums around the world',
         clan: 'Toreadore',
         faction: 'Camarilla (Phoenix)',
-        childer: 'N/A',
+        childer: '"Vizier"',
         sire: 'N/A',
-        keyNote: '',
-        history: ''
+        keyNote: 'Begrudingly allowed into Poseur despite bing an Artiste',
+        history: 'An artiste of true caliber, Kirill is a marvelous sculptor. He was sired over while on an exhibition in Phoenix and has not left since, though his sire abandoned him soon after. Kirill’s work is widely loved among his clan and even earned it’s place in the Camarilla’s headquarters.  However, the other artistes are less impressed with his poor etiquette and lack of care for his personal hygiene.  Because he\'s a bit of an oddball and is good friends with Dmitri (the only other Russian Kindred in Phoenix), his presence is accepted at Poseur, though Eeves “jokingly” makes him feel unwelcome.'
     },
     Kyle: {
         fullName: 'Kyle Bennet',
@@ -278,26 +278,26 @@ chars = {
     Lola: {
         fullName: 'Lola',
         player: 'The Storyteller',
-        concept: '',
-        ambition: '',
+        concept: 'Goat-eyed Slinker',
+        ambition: 'Unclear',
         clan: 'Nosferatu',
         faction: 'Autarkis (Under Raven)',
         childer: 'N/A',
-        sire: 'N/A',
-        keyNote: '',
-        history: ''
+        sire: 'Barry Grendal',
+        keyNote: 'Endless Cackling',
+        history: 'One of the Hello Girls working the switch boards in WW1, Lola had a knack for listening into conversations instead of just redirecting them, but never said anything about what she learned to anyone. She just liked to have the intel. That behavior extended to the rest of her life, as a shameless eaves dropper and collector of lost diaries. Her sire was looking for just that kind of information handling and technical knowledge to bring back to Phoenix. Lola went with him kicking and screaming and kept screaming at him for the first few years, but eventually accepted that this was her life now. In the end, Lola decided Barry was not the worst piece of garbage to ever walk the earth and got along with him until he left with his sire to assist in the middle east.'
     },
     Lucas: {
         fullName: 'Lucas Wright',
         player: 'The Storyteller',
-        concept: '',
-        ambition: '',
+        concept: 'Pantry or Gamer',
+        ambition: 'Stop being calld kid by everyone',
         clan: 'Nosferatu',
         faction: 'Autarkis (Under Raven)',
         childer: 'None',
         sire: 'Austin Banks',
-        keyNote: '',
-        history: ''
+        keyNote: 'Plays XBox',
+        history: 'A wanna be techie and gamer, Lucas met up with Aus mostly because Lucas was a loner and not afraid of the creppy older guy. Aus would keep an eye out for Lucas and had plans of eventually turning him.  In fact, Aus had gotten permission in advance.  When Lucas got caught in the crossfire of a gang fight, and Aus brought him to the other side at a much younger age than Aus would have preferred. Lucas is doing a so-so job of adjusting, and is a bit of a slow learner, but he\'s been helpful in bringing a lot of modernisms to the Nosferatu.  Plus, he\'s Aus, so the rest of their Coterie at least tolerates Lucas. Some of the oldsters even have a soft spot for his naivete, though they treat Lucas more like a child than he would like.'
     },
     Lydia: {
         fullName: 'Lydia Perez',
@@ -314,14 +314,14 @@ chars = {
     Maxim: {
         fullName: 'Maxim',
         player: 'The Storyteller',
-        concept: '',
-        ambition: '',
+        concept: 'Demolishionst',
+        ambition: 'Unclear',
         clan: 'Nosferatu',
         faction: 'Autarkis (Under Raven)',
         childer: 'None',
         sire: 'Raven Freeman',
-        keyNote: '',
-        history: ''
+        keyNote: 'ex-Ventrue Ghoul',
+        history: 'N/A'
     },
     Miranda: {
         fullName: 'Miranda Blake',
@@ -338,14 +338,14 @@ chars = {
     Noah: {
         fullName: 'Noah Dane',
         player: 'The Storyteller',
-        concept: '',
-        ambition: '',
+        concept: 'Charismatic Chicken Baron',
+        ambition: 'Overtake Hartstone',
         clan: 'Brujah',
         faction: 'Anarch (Hartstone)',
         childer: 'Gab and Jay',
         sire: 'Torsten',
-        keyNote: '',
-        history: ''
+        keyNote: 'His pride and joy is his best show chicke, Cecilia',
+        history: 'Noah was a Hartstone native who viciously lobbied against efforts from Phoenix to add Hartstone as another one of its suburbs.  Garren was drawn to his leadership and ability to quickly organize supporters, while Torsten was drawn to his revolutionary rhetoric and radical ideas.  As the two Kindred were unable to come to a satisfactory decision among themselves, Noah was allowed to pick who his Sire would be.  Garren always felt a little slighted that Torsten got Noah, but fair is fair.  Noah received mentorship from the Ventrue in addition to Torsten’s tutelage, which made Noah into a fairly diplomatic and understanding Baron.  However, Noah still shows flashes of temper in circumstances that cause Ventrue to scoff at his lack of control.  When Garren and Torsten left for the Middle East, Noah became the Hartstone Baron.  While in the early years, he made enormous gains for the Anarchs, He has recently lost the Anarch Elysium when Prince Ki bombed it, and now much of the turf he had gained in the last decade has been reclaimed by Raven for her Autarkis.  Loyalties to Noah are fading.'
     },
     Raven: {
         fullName: 'Raven Freeman',
@@ -386,14 +386,14 @@ chars = {
     Scorsese: {
         fullName: 'Scorsese',
         player: 'The Storyteller',
-        concept: '',
-        ambition: '',
+        concept: 'Hospital Lurker',
+        ambition: 'Further the Sabbat Plot',
         clan: 'Lasombre',
         faction: 'Sabbat (Phoenix)',
         childer: 'N/A',
         sire: 'N/A',
-        keyNote: '',
-        history: ''
+        keyNote: 'Fighting shadows in the dark is a bad idea.',
+        history: 'N/A'
     },
     Stefan: {
         fullName: 'Stefan Müller',
@@ -434,14 +434,14 @@ chars = {
     Rancher: {
         fullName: '"The Rancher"',
         player: 'The Storyteller',
-        concept: '',
-        ambition: '',
+        concept: 'Frenzy Expery',
+        ambition: 'Further the Sabbat Plot',
         clan: 'Malkavian',
         faction: 'Sabbat (Phoenix)',
         childer: 'N/A',
         sire: 'Zikri anak Langkau',
-        keyNote: '',
-        history: ''
+        keyNote: 'Most of Zikri\'s childer become monsters; this one is no exception',
+        history: 'N/A'
     },
     TimJohn: {
         fullName: 'Tim "TimJohn" Johnson',
@@ -476,7 +476,7 @@ chars = {
         faction: 'Autarkis (on her own in Hartstone)',
         childer: 'N/A',
         sire: 'N/A',
-        keyNote: 'What exactly does she see in Elliott that Alyx doesnt have?',
+        keyNote: 'What exactly does she see in Elliott that Alyx doesn\'t have?',
         history: 'Wraith is an elusive creature and little is known about her history.  She is younger than Garren but had a claim in the Hartstone area before Garren arrived to settle the town.  Garren permitted her to have her domain in the wastes as long as she did not interfere with his business, an agreement she was happy to honor.  She now stands as the oldest Kindred in Hartstone and the respected tie breaker in discussions that affect the basic functioning of Kindred regardless of the faction the align themselves with.  She made one known childer, Alyx, but soon after abandoned her as “not good enough.”  However, she has a covert interest in the Toreadore Elliott, and pushes him to act in seditious ways that undermine both the Anarchs and the Camarilla.'
     },
     Zikri: {
